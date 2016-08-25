@@ -51,8 +51,6 @@ public class CommonLangTest {
 		commonLangTestObj2.setName("Mary");
 		commonLangTestObj2.setAge(23);
 
-		//Adding extra comment - for reverting later
-		
 		System.out.println("Test Object 2: " + commonLangTestObj2.toString());
 
 		boolean equalsResult = commonLangTestObj.equals(commonLangTestObj2);
