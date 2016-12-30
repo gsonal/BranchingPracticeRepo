@@ -1,2 +1,5 @@
 Added new file in branch
 Remote repository renamed from Github to 'BranchingPracticeRepo'
+
+Dummy line...to be updated.
+git rebase command to be tested.
