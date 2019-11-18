@@ -1,1 +1,12 @@
 Added new file in branch
+Remote repository renamed from Github to 'BranchingPracticeRepo'
+
+modified line
+
+git rebase command to be tested.
+
+Added new statement to generate new commit-1
+
+removing New commit-2. Adding New commit-3
+
+New commit-4
