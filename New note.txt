@@ -7,4 +7,4 @@ git rebase command to be tested.
 
 Added new statement to generate new commit-1
 
-New commit-2
+removing New commit-2. Adding New commit-3
