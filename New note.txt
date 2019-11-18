@@ -10,3 +10,6 @@ Added new statement to generate new commit-1
 removing New commit-2. Adding New commit-3
 
 New commit-4
+---- At this point this branch is squashed merged into feature/new-commits-v11 (git merge --squash feature/merge-test)
+
+enhacement or bug fix after the merge
