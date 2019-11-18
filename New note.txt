@@ -4,3 +4,5 @@ Remote repository renamed from Github to 'BranchingPracticeRepo'
 modified line
 
 git rebase command to be tested.
+
+Added new statement to generate new commit-1
