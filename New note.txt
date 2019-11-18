@@ -13,3 +13,5 @@ New commit-4
 ---- At this point this branch is squashed merged into feature/new-commits-v11 (git merge --squash feature/merge-test)
 
 enhacement or bug fix after the merge
+
+New commit-6
